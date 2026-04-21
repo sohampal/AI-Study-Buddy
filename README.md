@@ -115,9 +115,9 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+Soham Pal
+GitHub: https://github.com/sohampl
+
 
 ---
 
