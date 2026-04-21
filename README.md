@@ -107,11 +107,6 @@ streamlit run app.py
 
 ---
 
-## 📄 Project Report
-
-`AI_Study_Buddy_Report.pdf`
-
----
 
 ## 👨‍💻 Author
 
